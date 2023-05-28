@@ -199,8 +199,8 @@ nav {
     box-shadow: 1px 1px 5px #555;
     height: 100vh;
     top: 0;
-    left: -228px;
-    width: 260px;
+    left: -278px;
+    width: 310px;
     position: fixed;
     transition: left 500ms;
 }
